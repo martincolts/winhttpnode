@@ -1,0 +1,21 @@
+{
+  "name": "Projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ffi-napi": "^4.0.3",
+    "get-proxy-settings": "^0.1.13",
+    "nexe": "^4.0.0-beta.19",
+    "ref-napi": "^3.0.3",
+    "ref-struct-napi": "^1.1.1",
+    "regedit": "^5.0.0"
+  }
+}
